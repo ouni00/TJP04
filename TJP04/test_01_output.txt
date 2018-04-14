@@ -1,0 +1,44 @@
+Command: load test_01_data.txt
+	Loaded: 10
+Command: show bad
+#1
+	LF2YM57
+	4309
+	Total Items: 4
+#2
+	1VRXW
+	4385
+	Total Items: 11
+#3
+	UAPU95IU
+	4951
+	Total Items: 11
+#4
+	XBIY
+	5783
+	Total Items: 5
+#5
+	OQPG
+	6118
+	Total Items: 12
+#6
+	47FW4
+	3590
+	Total Items: 4
+#7
+	UHQJTBMG
+	5792
+	Total Items: 13
+#8
+	7FSHJ
+	5040
+	Total Items: 10
+#9
+	PTRVP
+	5186
+	Total Items: 5
+#10
+	3KFRQ
+	4780
+	Total Items: 7
+Command: show good
