@@ -1,3 +1,4 @@
-﻿  stdafx.cpp
-  TJP04.cpp
+﻿  TJP04.cpp
+c:\users\14661\source\repos\tjp04\tjp04\tjp04.cpp(7): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\14661\source\repos\tjp04\tjp04\tjp04.cpp(125): warning C4101: “i”: 未引用的局部变量
   TJP04.vcxproj -> C:\Users\14661\source\repos\TJP04\Debug\TJP04.exe
