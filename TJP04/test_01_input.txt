@@ -1,3 +1,0 @@
-load test_01_data.txt
-show bad
-show good

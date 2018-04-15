@@ -1,6 +1,5 @@
 ﻿  TJP04.cpp
 c:\users\14661\source\repos\tjp04\tjp04\tjp04.cpp(6): warning C4018: “<”: 有符号/无符号不匹配
-c:\users\14661\source\repos\tjp04\tjp04\tjp04.cpp(192): warning C4804: “+=”: 在操作中使用类型“bool”不安全
-c:\users\14661\source\repos\tjp04\tjp04\tjp04.cpp(216): warning C4018: “<”: 有符号/无符号不匹配
-c:\users\14661\source\repos\tjp04\tjp04\tjp04.cpp(233): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\14661\source\repos\tjp04\tjp04\tjp04.cpp(268): warning C4804: “+=”: 在操作中使用类型“bool”不安全
+c:\users\14661\source\repos\tjp04\tjp04\tjp04.cpp(461): warning C4326: “main”的返回类型应为“int”而非“void”
   TJP04.vcxproj -> C:\Users\14661\source\repos\TJP04\Debug\TJP04.exe

@@ -1,0 +1,15 @@
+Command: load test_02_data.txt
+	Loaded: 02B8DBA8
+Command: show good 10
+	Sorry bill #10 not gound.
+Command: show bad 2
+	VideoGame	3	6.92
+	VideoGame	2	58.3
+	Backpack	3	38.9
+	Belt	1	11.97
+	Hat	1	46.38
+	Shirt	1	19.08
+	Decorations	1	7.25
+	Coffee	3	45.46
+	Confirmation # 
+	Cust ID: 

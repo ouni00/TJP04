@@ -1,0 +1,3 @@
+load test_02_data.txt
+show good 10
+show bad 2

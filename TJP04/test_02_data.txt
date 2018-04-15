@@ -1,0 +1,101 @@
+Coffee	2	20.15
+Hat	3	94.55
+Shoes	1	6.56
+Socks	1	43.06
+Book	1	31.42
+Hat	2	4.59
+Confirmation #	4787
+Cust ID:	1OSP
+Video Game	3	6.92
+Shoes	1	2.24
+Sun glasses	2	22.4
+Water bottle	3	16.95
+Confirmation #	5134
+Cust ID:	FC4VK
+Video Game	2	58.3
+Shoes	1	87.52
+Pants	2	13.86
+Coffee	1	41.17
+Head phones	1	24.31
+Back pack	1	74.43
+Sweat Shirt	2	73.22
+Water bottle	1	85.75
+Confirmation #	4724
+Cust ID:	3QPM2BAE
+Back pack	3	38.9
+Suit Coat	1	53.88
+Pants	3	7.42
+Coat	3	91.35
+Hat	1	0.13
+Pants	2	89.64
+Confirmation #	5664
+Cust ID:	WTZY
+Belt	1	11.97
+Skirt	2	68.81
+Coffee	1	7.71
+Back pack	2	61.59
+Water bottle	2	32.53
+Coat	3	87.41
+Book	3	87.54
+Head phones	1	77.18
+Head phones	1	26.14
+Decorations	1	17.55
+Suit Coat	3	35.07
+Confirmation #	4385
+Cust ID:	GH4GDM
+Hat	1	46.38
+Belt	1	92.44
+Shoes	1	54.78
+Coat	1	6.62
+Coffee	2	33.73
+Skirt	3	63.64
+T-Shirt	2	99.44
+Hat	2	49.81
+Confirmation #	4297
+Cust ID:	G2D3
+Shirt	1	19.08
+Shoes	1	75.04
+Decorations	2	93.34
+Skirt	3	99.97
+Book	2	33.7
+Water bottle	2	97.34
+Water bottle	3	60.3
+Coffee	2	10.12
+Coat	1	66.8
+Shoes	2	63.09
+Back pack	3	17.46
+Belt	1	4.63
+Confirmation #	4630
+Cust ID:	V2SLVPD
+Decorations	1	7.25
+Coat	1	31.08
+Pants	3	41.2
+Book	1	71.52
+Jacket	2	34.62
+Confirmation #	3654
+Cust ID:	9BP3
+Coffee	3	45.46
+T-Shirt	1	21.68
+Jacket	3	95.11
+Sweat Shirt	3	2.37
+Back pack	1	96.97
+T-Shirt	3	38.17
+Hat	3	73.21
+Decorations	2	7.83
+Confirmation #	4467
+Cust ID:	6WY8I5I5
+Socks	2	97.28
+Decorations	2	72.14
+T-Shirt	3	86.87
+Suit Coat	1	61.39
+Sun glasses	2	90.66
+Sun glasses	3	27.23
+Head phones	1	32.82
+Water bottle	2	51.77
+Coat	1	3.46
+Decorations	3	27.65
+Hat	2	10.01
+Decorations	3	51
+Socks	2	57.88
+Confirmation #	4923
+Cust ID:	YEPQ6SVB
