@@ -1,5 +1,5 @@
 Command: load test_02_data.txt
-	Loaded: 02B8DBA8
+	Loaded: 031492A8
 Command: show good 10
 	Sorry bill #10 not gound.
 Command: show bad 2

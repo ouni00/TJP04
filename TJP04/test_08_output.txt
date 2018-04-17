@@ -1,0 +1,12350 @@
+Command: add
+	SweatShirt		3		66.64
+	Hat		1		10.45
+	Shirt		1		61.75
+	T-Shirt		1		98.04
+	Confirmation#5070
+	CustID:JQ6GZ
+Command: add
+	SweatShirt		3		32.02
+	Hat		3		27.35
+	Coffee		3		31.85
+	Jacket		2		90.3
+	SuitCoat		2		8.1
+	Shoes		2		78.39
+	Coffee		2		91.99
+	Sunglasses		1		28.65
+	Confirmation#5205
+	CustID:C2NB
+Command: add
+	Sunglasses		3		90.65
+	Waterbottle		3		18
+	Jacket		3		13.38
+	Pants		2		67.2
+	Socks		3		75.3
+	Confirmation#5232
+	CustID:TBNVUCS3
+Command: add
+	SweatShirt		2		17.77
+	VideoGame		1		91.89
+	Shirt		3		68.29
+	Shoes		2		98.38
+	Confirmation#4904
+	CustID:KQCLB5N
+Command: add
+	Hat		2		8.34
+	Shirt		2		38.92
+	Decorations		3		92.74
+	Backpack		2		10.52
+	Skirt		3		65.93
+	Backpack		2		97.74
+	Hat		2		96.13
+	SweatShirt		1		32.18
+	Hat		3		53.85
+	Coat		3		8.64
+	Jacket		1		21.89
+	Confirmation#4814
+	CustID:XFEGJ3E5
+Command: add
+	Decorations		2		56.72
+	Book		1		77.32
+	Socks		1		19.57
+	VideoGame		2		66.76
+	Sunglasses		2		66.96
+	Coffee		3		34.06
+	SuitCoat		3		9.5
+	Coffee		1		87.38
+	Coat		2		21.52
+	Skirt		1		29.71
+	SuitCoat		3		40.31
+	Coat		1		75.69
+	T-Shirt		1		43.69
+	Confirmation#4032
+	CustID:DY9U6F8L
+Command: add
+	Hat		3		82.86
+	Shirt		3		97.26
+	T-Shirt		1		75.9
+	Pants		3		71.86
+	T-Shirt		1		24.54
+	Shirt		2		18.06
+	Coat		2		31.15
+	Socks		1		38.05
+	Jacket		1		48.4
+	Belt		1		19.84
+	Shirt		1		37.27
+	Hat		2		69.11
+	Confirmation#5330
+	CustID:JRW2ZIMQ
+Command: add
+	Decorations		1		68.4
+	SweatShirt		1		17.23
+	Jacket		2		79.4
+	Shoes		3		80.93
+	Hat		2		62.63
+	Waterbottle		1		90.7
+	Confirmation#5818
+	CustID:PUBT
+Command: add
+	Waterbottle		3		13.4
+	Hat		1		22.93
+	SuitCoat		1		54.85
+	T-Shirt		2		35.6
+	Coffee		2		15
+	Sunglasses		2		59.46
+	Waterbottle		3		22.09
+	Socks		1		76.31
+	Socks		1		55.88
+	Coat		2		0.21
+	Jacket		3		44.68
+	Confirmation#4557
+	CustID:NKZB81YC
+Command: add
+	Hat		2		64.72
+	SuitCoat		3		96.72
+	Headphones		1		91.42
+	Shirt		1		97.25
+	Socks		1		95.85
+	Pants		3		45.22
+	Belt		2		71.51
+	Decorations		3		84.26
+	Backpack		3		15.38
+	VideoGame		3		82.1
+	VideoGame		3		63.83
+	Skirt		2		68.54
+	Confirmation#4939
+	CustID:MFX8O5Z
+Command: savesave_test_08_data.txt
+Command: load test_08_data.txt
+	Loaded: 10
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+Command: add
+	SweatShirt		3		66.64
+	Hat		1		10.45
+	Shirt		1		61.75
+	T-Shirt		1		98.04
+	Confirmation#5070
+	CustID:JQ6GZ
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+Command: add
+	SweatShirt		3		32.02
+	Hat		3		27.35
+	Coffee		3		31.85
+	Jacket		2		90.3
+	SuitCoat		2		8.1
+	Shoes		2		78.39
+	Coffee		2		91.99
+	Sunglasses		1		28.65
+	Confirmation#5205
+	CustID:C2NB
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+Command: add
+	Sunglasses		3		90.65
+	Waterbottle		3		18
+	Jacket		3		13.38
+	Pants		2		67.2
+	Socks		3		75.3
+	Confirmation#5232
+	CustID:TBNVUCS3
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+Command: add
+	SweatShirt		2		17.77
+	VideoGame		1		91.89
+	Shirt		3		68.29
+	Shoes		2		98.38
+	Confirmation#4904
+	CustID:KQCLB5N
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+Command: add
+	Hat		2		8.34
+	Shirt		2		38.92
+	Decorations		3		92.74
+	Backpack		2		10.52
+	Skirt		3		65.93
+	Backpack		2		97.74
+	Hat		2		96.13
+	SweatShirt		1		32.18
+	Hat		3		53.85
+	Coat		3		8.64
+	Jacket		1		21.89
+	Confirmation#4814
+	CustID:XFEGJ3E5
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+Command: add
+	Decorations		2		56.72
+	Book		1		77.32
+	Socks		1		19.57
+	VideoGame		2		66.76
+	Sunglasses		2		66.96
+	Coffee		3		34.06
+	SuitCoat		3		9.5
+	Coffee		1		87.38
+	Coat		2		21.52
+	Skirt		1		29.71
+	SuitCoat		3		40.31
+	Coat		1		75.69
+	T-Shirt		1		43.69
+	Confirmation#4032
+	CustID:DY9U6F8L
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+Command: add
+	Hat		3		82.86
+	Shirt		3		97.26
+	T-Shirt		1		75.9
+	Pants		3		71.86
+	T-Shirt		1		24.54
+	Shirt		2		18.06
+	Coat		2		31.15
+	Socks		1		38.05
+	Jacket		1		48.4
+	Belt		1		19.84
+	Shirt		1		37.27
+	Hat		2		69.11
+	Confirmation#5330
+	CustID:JRW2ZIMQ
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+Command: add
+	Decorations		1		68.4
+	SweatShirt		1		17.23
+	Jacket		2		79.4
+	Shoes		3		80.93
+	Hat		2		62.63
+	Waterbottle		1		90.7
+	Confirmation#5818
+	CustID:PUBT
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+Command: add
+	Waterbottle		3		13.4
+	Hat		1		22.93
+	SuitCoat		1		54.85
+	T-Shirt		2		35.6
+	Coffee		2		15
+	Sunglasses		2		59.46
+	Waterbottle		3		22.09
+	Socks		1		76.31
+	Socks		1		55.88
+	Coat		2		0.21
+	Jacket		3		44.68
+	Confirmation#4557
+	CustID:NKZB81YC
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+Command: add
+	Hat		2		64.72
+	SuitCoat		3		96.72
+	Headphones		1		91.42
+	Shirt		1		97.25
+	Socks		1		95.85
+	Pants		3		45.22
+	Belt		2		71.51
+	Decorations		3		84.26
+	Backpack		3		15.38
+	VideoGame		3		82.1
+	VideoGame		3		63.83
+	Skirt		2		68.54
+	Confirmation#4939
+	CustID:MFX8O5Z
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+Command: load test_08_data.txt
+	Loaded: 10
+Command: show good 4
+	Sorry bill #4 not gound.
+Command: show bad 6
+	Hat	2	8.34
+	Decorations	2	56.72
+	Hat	3	82.86
+	Decorations	1	68.4
+	Confirmation # 
+	Cust ID: 
+Command: load test_08_data.txt
+	Loaded: 10
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+Command: add
+	SweatShirt		3		66.64
+	Hat		1		10.45
+	Shirt		1		61.75
+	T-Shirt		1		98.04
+	Confirmation#5070
+	CustID:JQ6GZ
+Command: add
+	SweatShirt		3		32.02
+	Hat		3		27.35
+	Coffee		3		31.85
+	Jacket		2		90.3
+	SuitCoat		2		8.1
+	Shoes		2		78.39
+	Coffee		2		91.99
+	Sunglasses		1		28.65
+	Confirmation#5205
+	CustID:C2NB
+Command: add
+	Sunglasses		3		90.65
+	Waterbottle		3		18
+	Jacket		3		13.38
+	Pants		2		67.2
+	Socks		3		75.3
+	Confirmation#5232
+	CustID:TBNVUCS3
+Command: add
+	SweatShirt		2		17.77
+	VideoGame		1		91.89
+	Shirt		3		68.29
+	Shoes		2		98.38
+	Confirmation#4904
+	CustID:KQCLB5N
+Command: add
+	Hat		2		8.34
+	Shirt		2		38.92
+	Decorations		3		92.74
+	Backpack		2		10.52
+	Skirt		3		65.93
+	Backpack		2		97.74
+	Hat		2		96.13
+	SweatShirt		1		32.18
+	Hat		3		53.85
+	Coat		3		8.64
+	Jacket		1		21.89
+	Confirmation#4814
+	CustID:XFEGJ3E5
+Command: add
+	Decorations		2		56.72
+	Book		1		77.32
+	Socks		1		19.57
+	VideoGame		2		66.76
+	Sunglasses		2		66.96
+	Coffee		3		34.06
+	SuitCoat		3		9.5
+	Coffee		1		87.38
+	Coat		2		21.52
+	Skirt		1		29.71
+	SuitCoat		3		40.31
+	Coat		1		75.69
+	T-Shirt		1		43.69
+	Confirmation#4032
+	CustID:DY9U6F8L
+Command: add
+	Hat		3		82.86
+	Shirt		3		97.26
+	T-Shirt		1		75.9
+	Pants		3		71.86
+	T-Shirt		1		24.54
+	Shirt		2		18.06
+	Coat		2		31.15
+	Socks		1		38.05
+	Jacket		1		48.4
+	Belt		1		19.84
+	Shirt		1		37.27
+	Hat		2		69.11
+	Confirmation#5330
+	CustID:JRW2ZIMQ
+Command: add
+	Decorations		1		68.4
+	SweatShirt		1		17.23
+	Jacket		2		79.4
+	Shoes		3		80.93
+	Hat		2		62.63
+	Waterbottle		1		90.7
+	Confirmation#5818
+	CustID:PUBT
+Command: add
+	Waterbottle		3		13.4
+	Hat		1		22.93
+	SuitCoat		1		54.85
+	T-Shirt		2		35.6
+	Coffee		2		15
+	Sunglasses		2		59.46
+	Waterbottle		3		22.09
+	Socks		1		76.31
+	Socks		1		55.88
+	Coat		2		0.21
+	Jacket		3		44.68
+	Confirmation#4557
+	CustID:NKZB81YC
+Command: add
+	Hat		2		64.72
+	SuitCoat		3		96.72
+	Headphones		1		91.42
+	Shirt		1		97.25
+	Socks		1		95.85
+	Pants		3		45.22
+	Belt		2		71.51
+	Decorations		3		84.26
+	Backpack		3		15.38
+	VideoGame		3		82.1
+	VideoGame		3		63.83
+	Skirt		2		68.54
+	Confirmation#4939
+	CustID:MFX8O5Z
+Command: savesave_test_08_data.txt
+Command: add
+	SweatShirt		3		66.64
+	Hat		1		10.45
+	Shirt		1		61.75
+	T-Shirt		1		98.04
+	Confirmation#5070
+	CustID:JQ6GZ
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+Command: add
+	SweatShirt		3		32.02
+	Hat		3		27.35
+	Coffee		3		31.85
+	Jacket		2		90.3
+	SuitCoat		2		8.1
+	Shoes		2		78.39
+	Coffee		2		91.99
+	Sunglasses		1		28.65
+	Confirmation#5205
+	CustID:C2NB
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+Command: add
+	Sunglasses		3		90.65
+	Waterbottle		3		18
+	Jacket		3		13.38
+	Pants		2		67.2
+	Socks		3		75.3
+	Confirmation#5232
+	CustID:TBNVUCS3
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+Command: add
+	SweatShirt		2		17.77
+	VideoGame		1		91.89
+	Shirt		3		68.29
+	Shoes		2		98.38
+	Confirmation#4904
+	CustID:KQCLB5N
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+Command: add
+	Hat		2		8.34
+	Shirt		2		38.92
+	Decorations		3		92.74
+	Backpack		2		10.52
+	Skirt		3		65.93
+	Backpack		2		97.74
+	Hat		2		96.13
+	SweatShirt		1		32.18
+	Hat		3		53.85
+	Coat		3		8.64
+	Jacket		1		21.89
+	Confirmation#4814
+	CustID:XFEGJ3E5
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+Command: add
+	Decorations		2		56.72
+	Book		1		77.32
+	Socks		1		19.57
+	VideoGame		2		66.76
+	Sunglasses		2		66.96
+	Coffee		3		34.06
+	SuitCoat		3		9.5
+	Coffee		1		87.38
+	Coat		2		21.52
+	Skirt		1		29.71
+	SuitCoat		3		40.31
+	Coat		1		75.69
+	T-Shirt		1		43.69
+	Confirmation#4032
+	CustID:DY9U6F8L
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+Command: add
+	Hat		3		82.86
+	Shirt		3		97.26
+	T-Shirt		1		75.9
+	Pants		3		71.86
+	T-Shirt		1		24.54
+	Shirt		2		18.06
+	Coat		2		31.15
+	Socks		1		38.05
+	Jacket		1		48.4
+	Belt		1		19.84
+	Shirt		1		37.27
+	Hat		2		69.11
+	Confirmation#5330
+	CustID:JRW2ZIMQ
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+#60
+	XFEGJ3E5
+	4814
+	Total Items: 11
+Command: add
+	Decorations		1		68.4
+	SweatShirt		1		17.23
+	Jacket		2		79.4
+	Shoes		3		80.93
+	Hat		2		62.63
+	Waterbottle		1		90.7
+	Confirmation#5818
+	CustID:PUBT
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+#60
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#61
+	DY9U6F8L
+	4032
+	Total Items: 13
+Command: add
+	Waterbottle		3		13.4
+	Hat		1		22.93
+	SuitCoat		1		54.85
+	T-Shirt		2		35.6
+	Coffee		2		15
+	Sunglasses		2		59.46
+	Waterbottle		3		22.09
+	Socks		1		76.31
+	Socks		1		55.88
+	Coat		2		0.21
+	Jacket		3		44.68
+	Confirmation#4557
+	CustID:NKZB81YC
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+#60
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#61
+	DY9U6F8L
+	4032
+	Total Items: 13
+#62
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+Command: add
+	Hat		2		64.72
+	SuitCoat		3		96.72
+	Headphones		1		91.42
+	Shirt		1		97.25
+	Socks		1		95.85
+	Pants		3		45.22
+	Belt		2		71.51
+	Decorations		3		84.26
+	Backpack		3		15.38
+	VideoGame		3		82.1
+	VideoGame		3		63.83
+	Skirt		2		68.54
+	Confirmation#4939
+	CustID:MFX8O5Z
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+#60
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#61
+	DY9U6F8L
+	4032
+	Total Items: 13
+#62
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#63
+	PUBT
+	5818
+	Total Items: 6
+Command: load test_08_data.txt
+	Loaded: 10
+Command: archiveCommand: goodCommand: 4Command: archiveCommand: badCommand: 6Command: load test_08_data.txt
+	Loaded: 10
+Command: show good 7
+	Sorry bill #7 not gound.
+Command: show bad 4
+	Sunglasses	3	90.65
+	SweatShirt	2	17.77
+	Hat	2	8.34
+	Decorations	2	56.72
+	Hat	3	82.86
+	Decorations	1	68.4
+	Confirmation # 
+	Cust ID: 
+Command: load test_08_data.txt
+	Loaded: 10
+Command: archiveCommand: goodCommand: 9Command: archiveCommand: badCommand: 9Command: add
+	SweatShirt		3		66.64
+	Hat		1		10.45
+	Shirt		1		61.75
+	T-Shirt		1		98.04
+	Confirmation#5070
+	CustID:JQ6GZ
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+#60
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#61
+	DY9U6F8L
+	4032
+	Total Items: 13
+#62
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#63
+	PUBT
+	5818
+	Total Items: 6
+#64
+	ID:
+	5070
+	Total Items: 4
+#65
+	ID:
+	5205
+	Total Items: 8
+#66
+	ID:
+	5232
+	Total Items: 5
+#67
+	ID:
+	4904
+	Total Items: 4
+#68
+	ID:
+	4814
+	Total Items: 11
+#69
+	ID:
+	4032
+	Total Items: 13
+#70
+	ID:
+	5330
+	Total Items: 12
+#71
+	ID:
+	5818
+	Total Items: 6
+#72
+	ID:
+	4557
+	Total Items: 11
+#73
+	ID:
+	4939
+	Total Items: 12
+#74
+	ID:
+	5070
+	Total Items: 4
+#75
+	ID:
+	5205
+	Total Items: 8
+#76
+	ID:
+	5232
+	Total Items: 5
+#77
+	ID:
+	4904
+	Total Items: 4
+#78
+	ID:
+	4814
+	Total Items: 11
+#79
+	ID:
+	4032
+	Total Items: 13
+#80
+	ID:
+	5330
+	Total Items: 12
+#81
+	ID:
+	5818
+	Total Items: 6
+#82
+	ID:
+	4557
+	Total Items: 11
+#83
+	ID:
+	4939
+	Total Items: 12
+#84
+	ID:
+	5070
+	Total Items: 4
+#85
+	ID:
+	5205
+	Total Items: 8
+#86
+	ID:
+	5232
+	Total Items: 5
+#87
+	ID:
+	4904
+	Total Items: 4
+#88
+	ID:
+	4814
+	Total Items: 11
+#89
+	ID:
+	4032
+	Total Items: 13
+#90
+	ID:
+	5330
+	Total Items: 12
+#91
+	ID:
+	5818
+	Total Items: 6
+#92
+	ID:
+	4557
+	Total Items: 11
+#93
+	ID:
+	4939
+	Total Items: 12
+Command: add
+	SweatShirt		3		32.02
+	Hat		3		27.35
+	Coffee		3		31.85
+	Jacket		2		90.3
+	SuitCoat		2		8.1
+	Shoes		2		78.39
+	Coffee		2		91.99
+	Sunglasses		1		28.65
+	Confirmation#5205
+	CustID:C2NB
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+#60
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#61
+	DY9U6F8L
+	4032
+	Total Items: 13
+#62
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#63
+	PUBT
+	5818
+	Total Items: 6
+#64
+	ID:
+	5070
+	Total Items: 4
+#65
+	ID:
+	5205
+	Total Items: 8
+#66
+	ID:
+	5232
+	Total Items: 5
+#67
+	ID:
+	4904
+	Total Items: 4
+#68
+	ID:
+	4814
+	Total Items: 11
+#69
+	ID:
+	4032
+	Total Items: 13
+#70
+	ID:
+	5330
+	Total Items: 12
+#71
+	ID:
+	5818
+	Total Items: 6
+#72
+	ID:
+	4557
+	Total Items: 11
+#73
+	ID:
+	4939
+	Total Items: 12
+#74
+	ID:
+	5070
+	Total Items: 4
+#75
+	ID:
+	5205
+	Total Items: 8
+#76
+	ID:
+	5232
+	Total Items: 5
+#77
+	ID:
+	4904
+	Total Items: 4
+#78
+	ID:
+	4814
+	Total Items: 11
+#79
+	ID:
+	4032
+	Total Items: 13
+#80
+	ID:
+	5330
+	Total Items: 12
+#81
+	ID:
+	5818
+	Total Items: 6
+#82
+	ID:
+	4557
+	Total Items: 11
+#83
+	ID:
+	4939
+	Total Items: 12
+#84
+	ID:
+	5070
+	Total Items: 4
+#85
+	ID:
+	5205
+	Total Items: 8
+#86
+	ID:
+	5232
+	Total Items: 5
+#87
+	ID:
+	4904
+	Total Items: 4
+#88
+	ID:
+	4814
+	Total Items: 11
+#89
+	ID:
+	4032
+	Total Items: 13
+#90
+	ID:
+	5330
+	Total Items: 12
+#91
+	ID:
+	5818
+	Total Items: 6
+#92
+	ID:
+	4557
+	Total Items: 11
+#93
+	ID:
+	4939
+	Total Items: 12
+Command: add
+	Sunglasses		3		90.65
+	Waterbottle		3		18
+	Jacket		3		13.38
+	Pants		2		67.2
+	Socks		3		75.3
+	Confirmation#5232
+	CustID:TBNVUCS3
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+#60
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#61
+	DY9U6F8L
+	4032
+	Total Items: 13
+#62
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#63
+	PUBT
+	5818
+	Total Items: 6
+#64
+	ID:
+	5070
+	Total Items: 4
+#65
+	ID:
+	5205
+	Total Items: 8
+#66
+	ID:
+	5232
+	Total Items: 5
+#67
+	ID:
+	4904
+	Total Items: 4
+#68
+	ID:
+	4814
+	Total Items: 11
+#69
+	ID:
+	4032
+	Total Items: 13
+#70
+	ID:
+	5330
+	Total Items: 12
+#71
+	ID:
+	5818
+	Total Items: 6
+#72
+	ID:
+	4557
+	Total Items: 11
+#73
+	ID:
+	4939
+	Total Items: 12
+#74
+	ID:
+	5070
+	Total Items: 4
+#75
+	ID:
+	5205
+	Total Items: 8
+#76
+	ID:
+	5232
+	Total Items: 5
+#77
+	ID:
+	4904
+	Total Items: 4
+#78
+	ID:
+	4814
+	Total Items: 11
+#79
+	ID:
+	4032
+	Total Items: 13
+#80
+	ID:
+	5330
+	Total Items: 12
+#81
+	ID:
+	5818
+	Total Items: 6
+#82
+	ID:
+	4557
+	Total Items: 11
+#83
+	ID:
+	4939
+	Total Items: 12
+#84
+	ID:
+	5070
+	Total Items: 4
+#85
+	ID:
+	5205
+	Total Items: 8
+#86
+	ID:
+	5232
+	Total Items: 5
+#87
+	ID:
+	4904
+	Total Items: 4
+#88
+	ID:
+	4814
+	Total Items: 11
+#89
+	ID:
+	4032
+	Total Items: 13
+#90
+	ID:
+	5330
+	Total Items: 12
+#91
+	ID:
+	5818
+	Total Items: 6
+#92
+	ID:
+	4557
+	Total Items: 11
+#93
+	ID:
+	4939
+	Total Items: 12
+#94
+	JQ6GZ
+	5070
+	Total Items: 4
+Command: add
+	SweatShirt		2		17.77
+	VideoGame		1		91.89
+	Shirt		3		68.29
+	Shoes		2		98.38
+	Confirmation#4904
+	CustID:KQCLB5N
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+#60
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#61
+	DY9U6F8L
+	4032
+	Total Items: 13
+#62
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#63
+	PUBT
+	5818
+	Total Items: 6
+#64
+	ID:
+	5070
+	Total Items: 4
+#65
+	ID:
+	5205
+	Total Items: 8
+#66
+	ID:
+	5232
+	Total Items: 5
+#67
+	ID:
+	4904
+	Total Items: 4
+#68
+	ID:
+	4814
+	Total Items: 11
+#69
+	ID:
+	4032
+	Total Items: 13
+#70
+	ID:
+	5330
+	Total Items: 12
+#71
+	ID:
+	5818
+	Total Items: 6
+#72
+	ID:
+	4557
+	Total Items: 11
+#73
+	ID:
+	4939
+	Total Items: 12
+#74
+	ID:
+	5070
+	Total Items: 4
+#75
+	ID:
+	5205
+	Total Items: 8
+#76
+	ID:
+	5232
+	Total Items: 5
+#77
+	ID:
+	4904
+	Total Items: 4
+#78
+	ID:
+	4814
+	Total Items: 11
+#79
+	ID:
+	4032
+	Total Items: 13
+#80
+	ID:
+	5330
+	Total Items: 12
+#81
+	ID:
+	5818
+	Total Items: 6
+#82
+	ID:
+	4557
+	Total Items: 11
+#83
+	ID:
+	4939
+	Total Items: 12
+#84
+	ID:
+	5070
+	Total Items: 4
+#85
+	ID:
+	5205
+	Total Items: 8
+#86
+	ID:
+	5232
+	Total Items: 5
+#87
+	ID:
+	4904
+	Total Items: 4
+#88
+	ID:
+	4814
+	Total Items: 11
+#89
+	ID:
+	4032
+	Total Items: 13
+#90
+	ID:
+	5330
+	Total Items: 12
+#91
+	ID:
+	5818
+	Total Items: 6
+#92
+	ID:
+	4557
+	Total Items: 11
+#93
+	ID:
+	4939
+	Total Items: 12
+#94
+	JQ6GZ
+	5070
+	Total Items: 4
+#95
+	C2NB
+	5205
+	Total Items: 8
+Command: add
+	Hat		2		8.34
+	Shirt		2		38.92
+	Decorations		3		92.74
+	Backpack		2		10.52
+	Skirt		3		65.93
+	Backpack		2		97.74
+	Hat		2		96.13
+	SweatShirt		1		32.18
+	Hat		3		53.85
+	Coat		3		8.64
+	Jacket		1		21.89
+	Confirmation#4814
+	CustID:XFEGJ3E5
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+#60
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#61
+	DY9U6F8L
+	4032
+	Total Items: 13
+#62
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#63
+	PUBT
+	5818
+	Total Items: 6
+#64
+	ID:
+	5070
+	Total Items: 4
+#65
+	ID:
+	5205
+	Total Items: 8
+#66
+	ID:
+	5232
+	Total Items: 5
+#67
+	ID:
+	4904
+	Total Items: 4
+#68
+	ID:
+	4814
+	Total Items: 11
+#69
+	ID:
+	4032
+	Total Items: 13
+#70
+	ID:
+	5330
+	Total Items: 12
+#71
+	ID:
+	5818
+	Total Items: 6
+#72
+	ID:
+	4557
+	Total Items: 11
+#73
+	ID:
+	4939
+	Total Items: 12
+#74
+	ID:
+	5070
+	Total Items: 4
+#75
+	ID:
+	5205
+	Total Items: 8
+#76
+	ID:
+	5232
+	Total Items: 5
+#77
+	ID:
+	4904
+	Total Items: 4
+#78
+	ID:
+	4814
+	Total Items: 11
+#79
+	ID:
+	4032
+	Total Items: 13
+#80
+	ID:
+	5330
+	Total Items: 12
+#81
+	ID:
+	5818
+	Total Items: 6
+#82
+	ID:
+	4557
+	Total Items: 11
+#83
+	ID:
+	4939
+	Total Items: 12
+#84
+	ID:
+	5070
+	Total Items: 4
+#85
+	ID:
+	5205
+	Total Items: 8
+#86
+	ID:
+	5232
+	Total Items: 5
+#87
+	ID:
+	4904
+	Total Items: 4
+#88
+	ID:
+	4814
+	Total Items: 11
+#89
+	ID:
+	4032
+	Total Items: 13
+#90
+	ID:
+	5330
+	Total Items: 12
+#91
+	ID:
+	5818
+	Total Items: 6
+#92
+	ID:
+	4557
+	Total Items: 11
+#93
+	ID:
+	4939
+	Total Items: 12
+#94
+	JQ6GZ
+	5070
+	Total Items: 4
+#95
+	C2NB
+	5205
+	Total Items: 8
+#96
+	TBNVUCS3
+	5232
+	Total Items: 5
+Command: add
+	Decorations		2		56.72
+	Book		1		77.32
+	Socks		1		19.57
+	VideoGame		2		66.76
+	Sunglasses		2		66.96
+	Coffee		3		34.06
+	SuitCoat		3		9.5
+	Coffee		1		87.38
+	Coat		2		21.52
+	Skirt		1		29.71
+	SuitCoat		3		40.31
+	Coat		1		75.69
+	T-Shirt		1		43.69
+	Confirmation#4032
+	CustID:DY9U6F8L
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+#60
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#61
+	DY9U6F8L
+	4032
+	Total Items: 13
+#62
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#63
+	PUBT
+	5818
+	Total Items: 6
+#64
+	ID:
+	5070
+	Total Items: 4
+#65
+	ID:
+	5205
+	Total Items: 8
+#66
+	ID:
+	5232
+	Total Items: 5
+#67
+	ID:
+	4904
+	Total Items: 4
+#68
+	ID:
+	4814
+	Total Items: 11
+#69
+	ID:
+	4032
+	Total Items: 13
+#70
+	ID:
+	5330
+	Total Items: 12
+#71
+	ID:
+	5818
+	Total Items: 6
+#72
+	ID:
+	4557
+	Total Items: 11
+#73
+	ID:
+	4939
+	Total Items: 12
+#74
+	ID:
+	5070
+	Total Items: 4
+#75
+	ID:
+	5205
+	Total Items: 8
+#76
+	ID:
+	5232
+	Total Items: 5
+#77
+	ID:
+	4904
+	Total Items: 4
+#78
+	ID:
+	4814
+	Total Items: 11
+#79
+	ID:
+	4032
+	Total Items: 13
+#80
+	ID:
+	5330
+	Total Items: 12
+#81
+	ID:
+	5818
+	Total Items: 6
+#82
+	ID:
+	4557
+	Total Items: 11
+#83
+	ID:
+	4939
+	Total Items: 12
+#84
+	ID:
+	5070
+	Total Items: 4
+#85
+	ID:
+	5205
+	Total Items: 8
+#86
+	ID:
+	5232
+	Total Items: 5
+#87
+	ID:
+	4904
+	Total Items: 4
+#88
+	ID:
+	4814
+	Total Items: 11
+#89
+	ID:
+	4032
+	Total Items: 13
+#90
+	ID:
+	5330
+	Total Items: 12
+#91
+	ID:
+	5818
+	Total Items: 6
+#92
+	ID:
+	4557
+	Total Items: 11
+#93
+	ID:
+	4939
+	Total Items: 12
+#94
+	JQ6GZ
+	5070
+	Total Items: 4
+#95
+	C2NB
+	5205
+	Total Items: 8
+#96
+	TBNVUCS3
+	5232
+	Total Items: 5
+#97
+	KQCLB5N
+	4904
+	Total Items: 4
+Command: add
+	Hat		3		82.86
+	Shirt		3		97.26
+	T-Shirt		1		75.9
+	Pants		3		71.86
+	T-Shirt		1		24.54
+	Shirt		2		18.06
+	Coat		2		31.15
+	Socks		1		38.05
+	Jacket		1		48.4
+	Belt		1		19.84
+	Shirt		1		37.27
+	Hat		2		69.11
+	Confirmation#5330
+	CustID:JRW2ZIMQ
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+#60
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#61
+	DY9U6F8L
+	4032
+	Total Items: 13
+#62
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#63
+	PUBT
+	5818
+	Total Items: 6
+#64
+	ID:
+	5070
+	Total Items: 4
+#65
+	ID:
+	5205
+	Total Items: 8
+#66
+	ID:
+	5232
+	Total Items: 5
+#67
+	ID:
+	4904
+	Total Items: 4
+#68
+	ID:
+	4814
+	Total Items: 11
+#69
+	ID:
+	4032
+	Total Items: 13
+#70
+	ID:
+	5330
+	Total Items: 12
+#71
+	ID:
+	5818
+	Total Items: 6
+#72
+	ID:
+	4557
+	Total Items: 11
+#73
+	ID:
+	4939
+	Total Items: 12
+#74
+	ID:
+	5070
+	Total Items: 4
+#75
+	ID:
+	5205
+	Total Items: 8
+#76
+	ID:
+	5232
+	Total Items: 5
+#77
+	ID:
+	4904
+	Total Items: 4
+#78
+	ID:
+	4814
+	Total Items: 11
+#79
+	ID:
+	4032
+	Total Items: 13
+#80
+	ID:
+	5330
+	Total Items: 12
+#81
+	ID:
+	5818
+	Total Items: 6
+#82
+	ID:
+	4557
+	Total Items: 11
+#83
+	ID:
+	4939
+	Total Items: 12
+#84
+	ID:
+	5070
+	Total Items: 4
+#85
+	ID:
+	5205
+	Total Items: 8
+#86
+	ID:
+	5232
+	Total Items: 5
+#87
+	ID:
+	4904
+	Total Items: 4
+#88
+	ID:
+	4814
+	Total Items: 11
+#89
+	ID:
+	4032
+	Total Items: 13
+#90
+	ID:
+	5330
+	Total Items: 12
+#91
+	ID:
+	5818
+	Total Items: 6
+#92
+	ID:
+	4557
+	Total Items: 11
+#93
+	ID:
+	4939
+	Total Items: 12
+#94
+	JQ6GZ
+	5070
+	Total Items: 4
+#95
+	C2NB
+	5205
+	Total Items: 8
+#96
+	TBNVUCS3
+	5232
+	Total Items: 5
+#97
+	KQCLB5N
+	4904
+	Total Items: 4
+#98
+	XFEGJ3E5
+	4814
+	Total Items: 11
+Command: add
+	Decorations		1		68.4
+	SweatShirt		1		17.23
+	Jacket		2		79.4
+	Shoes		3		80.93
+	Hat		2		62.63
+	Waterbottle		1		90.7
+	Confirmation#5818
+	CustID:PUBT
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+#60
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#61
+	DY9U6F8L
+	4032
+	Total Items: 13
+#62
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#63
+	PUBT
+	5818
+	Total Items: 6
+#64
+	ID:
+	5070
+	Total Items: 4
+#65
+	ID:
+	5205
+	Total Items: 8
+#66
+	ID:
+	5232
+	Total Items: 5
+#67
+	ID:
+	4904
+	Total Items: 4
+#68
+	ID:
+	4814
+	Total Items: 11
+#69
+	ID:
+	4032
+	Total Items: 13
+#70
+	ID:
+	5330
+	Total Items: 12
+#71
+	ID:
+	5818
+	Total Items: 6
+#72
+	ID:
+	4557
+	Total Items: 11
+#73
+	ID:
+	4939
+	Total Items: 12
+#74
+	ID:
+	5070
+	Total Items: 4
+#75
+	ID:
+	5205
+	Total Items: 8
+#76
+	ID:
+	5232
+	Total Items: 5
+#77
+	ID:
+	4904
+	Total Items: 4
+#78
+	ID:
+	4814
+	Total Items: 11
+#79
+	ID:
+	4032
+	Total Items: 13
+#80
+	ID:
+	5330
+	Total Items: 12
+#81
+	ID:
+	5818
+	Total Items: 6
+#82
+	ID:
+	4557
+	Total Items: 11
+#83
+	ID:
+	4939
+	Total Items: 12
+#84
+	ID:
+	5070
+	Total Items: 4
+#85
+	ID:
+	5205
+	Total Items: 8
+#86
+	ID:
+	5232
+	Total Items: 5
+#87
+	ID:
+	4904
+	Total Items: 4
+#88
+	ID:
+	4814
+	Total Items: 11
+#89
+	ID:
+	4032
+	Total Items: 13
+#90
+	ID:
+	5330
+	Total Items: 12
+#91
+	ID:
+	5818
+	Total Items: 6
+#92
+	ID:
+	4557
+	Total Items: 11
+#93
+	ID:
+	4939
+	Total Items: 12
+#94
+	JQ6GZ
+	5070
+	Total Items: 4
+#95
+	C2NB
+	5205
+	Total Items: 8
+#96
+	TBNVUCS3
+	5232
+	Total Items: 5
+#97
+	KQCLB5N
+	4904
+	Total Items: 4
+#98
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#99
+	DY9U6F8L
+	4032
+	Total Items: 13
+Command: add
+	Waterbottle		3		13.4
+	Hat		1		22.93
+	SuitCoat		1		54.85
+	T-Shirt		2		35.6
+	Coffee		2		15
+	Sunglasses		2		59.46
+	Waterbottle		3		22.09
+	Socks		1		76.31
+	Socks		1		55.88
+	Coat		2		0.21
+	Jacket		3		44.68
+	Confirmation#4557
+	CustID:NKZB81YC
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+#60
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#61
+	DY9U6F8L
+	4032
+	Total Items: 13
+#62
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#63
+	PUBT
+	5818
+	Total Items: 6
+#64
+	ID:
+	5070
+	Total Items: 4
+#65
+	ID:
+	5205
+	Total Items: 8
+#66
+	ID:
+	5232
+	Total Items: 5
+#67
+	ID:
+	4904
+	Total Items: 4
+#68
+	ID:
+	4814
+	Total Items: 11
+#69
+	ID:
+	4032
+	Total Items: 13
+#70
+	ID:
+	5330
+	Total Items: 12
+#71
+	ID:
+	5818
+	Total Items: 6
+#72
+	ID:
+	4557
+	Total Items: 11
+#73
+	ID:
+	4939
+	Total Items: 12
+#74
+	ID:
+	5070
+	Total Items: 4
+#75
+	ID:
+	5205
+	Total Items: 8
+#76
+	ID:
+	5232
+	Total Items: 5
+#77
+	ID:
+	4904
+	Total Items: 4
+#78
+	ID:
+	4814
+	Total Items: 11
+#79
+	ID:
+	4032
+	Total Items: 13
+#80
+	ID:
+	5330
+	Total Items: 12
+#81
+	ID:
+	5818
+	Total Items: 6
+#82
+	ID:
+	4557
+	Total Items: 11
+#83
+	ID:
+	4939
+	Total Items: 12
+#84
+	ID:
+	5070
+	Total Items: 4
+#85
+	ID:
+	5205
+	Total Items: 8
+#86
+	ID:
+	5232
+	Total Items: 5
+#87
+	ID:
+	4904
+	Total Items: 4
+#88
+	ID:
+	4814
+	Total Items: 11
+#89
+	ID:
+	4032
+	Total Items: 13
+#90
+	ID:
+	5330
+	Total Items: 12
+#91
+	ID:
+	5818
+	Total Items: 6
+#92
+	ID:
+	4557
+	Total Items: 11
+#93
+	ID:
+	4939
+	Total Items: 12
+#94
+	JQ6GZ
+	5070
+	Total Items: 4
+#95
+	C2NB
+	5205
+	Total Items: 8
+#96
+	TBNVUCS3
+	5232
+	Total Items: 5
+#97
+	KQCLB5N
+	4904
+	Total Items: 4
+#98
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#99
+	DY9U6F8L
+	4032
+	Total Items: 13
+#100
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+Command: add
+	Hat		2		64.72
+	SuitCoat		3		96.72
+	Headphones		1		91.42
+	Shirt		1		97.25
+	Socks		1		95.85
+	Pants		3		45.22
+	Belt		2		71.51
+	Decorations		3		84.26
+	Backpack		3		15.38
+	VideoGame		3		82.1
+	VideoGame		3		63.83
+	Skirt		2		68.54
+	Confirmation#4939
+	CustID:MFX8O5Z
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+#60
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#61
+	DY9U6F8L
+	4032
+	Total Items: 13
+#62
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#63
+	PUBT
+	5818
+	Total Items: 6
+#64
+	ID:
+	5070
+	Total Items: 4
+#65
+	ID:
+	5205
+	Total Items: 8
+#66
+	ID:
+	5232
+	Total Items: 5
+#67
+	ID:
+	4904
+	Total Items: 4
+#68
+	ID:
+	4814
+	Total Items: 11
+#69
+	ID:
+	4032
+	Total Items: 13
+#70
+	ID:
+	5330
+	Total Items: 12
+#71
+	ID:
+	5818
+	Total Items: 6
+#72
+	ID:
+	4557
+	Total Items: 11
+#73
+	ID:
+	4939
+	Total Items: 12
+#74
+	ID:
+	5070
+	Total Items: 4
+#75
+	ID:
+	5205
+	Total Items: 8
+#76
+	ID:
+	5232
+	Total Items: 5
+#77
+	ID:
+	4904
+	Total Items: 4
+#78
+	ID:
+	4814
+	Total Items: 11
+#79
+	ID:
+	4032
+	Total Items: 13
+#80
+	ID:
+	5330
+	Total Items: 12
+#81
+	ID:
+	5818
+	Total Items: 6
+#82
+	ID:
+	4557
+	Total Items: 11
+#83
+	ID:
+	4939
+	Total Items: 12
+#84
+	ID:
+	5070
+	Total Items: 4
+#85
+	ID:
+	5205
+	Total Items: 8
+#86
+	ID:
+	5232
+	Total Items: 5
+#87
+	ID:
+	4904
+	Total Items: 4
+#88
+	ID:
+	4814
+	Total Items: 11
+#89
+	ID:
+	4032
+	Total Items: 13
+#90
+	ID:
+	5330
+	Total Items: 12
+#91
+	ID:
+	5818
+	Total Items: 6
+#92
+	ID:
+	4557
+	Total Items: 11
+#93
+	ID:
+	4939
+	Total Items: 12
+#94
+	JQ6GZ
+	5070
+	Total Items: 4
+#95
+	C2NB
+	5205
+	Total Items: 8
+#96
+	TBNVUCS3
+	5232
+	Total Items: 5
+#97
+	KQCLB5N
+	4904
+	Total Items: 4
+#98
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#99
+	DY9U6F8L
+	4032
+	Total Items: 13
+#100
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#101
+	PUBT
+	5818
+	Total Items: 6
+Command: add
+	SweatShirt		3		66.64
+	Hat		1		10.45
+	Shirt		1		61.75
+	T-Shirt		1		98.04
+	Confirmation#5070
+	CustID:JQ6GZ
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+#60
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#61
+	DY9U6F8L
+	4032
+	Total Items: 13
+#62
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#63
+	PUBT
+	5818
+	Total Items: 6
+#64
+	ID:
+	5070
+	Total Items: 4
+#65
+	ID:
+	5205
+	Total Items: 8
+#66
+	ID:
+	5232
+	Total Items: 5
+#67
+	ID:
+	4904
+	Total Items: 4
+#68
+	ID:
+	4814
+	Total Items: 11
+#69
+	ID:
+	4032
+	Total Items: 13
+#70
+	ID:
+	5330
+	Total Items: 12
+#71
+	ID:
+	5818
+	Total Items: 6
+#72
+	ID:
+	4557
+	Total Items: 11
+#73
+	ID:
+	4939
+	Total Items: 12
+#74
+	ID:
+	5070
+	Total Items: 4
+#75
+	ID:
+	5205
+	Total Items: 8
+#76
+	ID:
+	5232
+	Total Items: 5
+#77
+	ID:
+	4904
+	Total Items: 4
+#78
+	ID:
+	4814
+	Total Items: 11
+#79
+	ID:
+	4032
+	Total Items: 13
+#80
+	ID:
+	5330
+	Total Items: 12
+#81
+	ID:
+	5818
+	Total Items: 6
+#82
+	ID:
+	4557
+	Total Items: 11
+#83
+	ID:
+	4939
+	Total Items: 12
+#84
+	ID:
+	5070
+	Total Items: 4
+#85
+	ID:
+	5205
+	Total Items: 8
+#86
+	ID:
+	5232
+	Total Items: 5
+#87
+	ID:
+	4904
+	Total Items: 4
+#88
+	ID:
+	4814
+	Total Items: 11
+#89
+	ID:
+	4032
+	Total Items: 13
+#90
+	ID:
+	5330
+	Total Items: 12
+#91
+	ID:
+	5818
+	Total Items: 6
+#92
+	ID:
+	4557
+	Total Items: 11
+#93
+	ID:
+	4939
+	Total Items: 12
+#94
+	JQ6GZ
+	5070
+	Total Items: 4
+#95
+	C2NB
+	5205
+	Total Items: 8
+#96
+	TBNVUCS3
+	5232
+	Total Items: 5
+#97
+	KQCLB5N
+	4904
+	Total Items: 4
+#98
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#99
+	DY9U6F8L
+	4032
+	Total Items: 13
+#100
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#101
+	PUBT
+	5818
+	Total Items: 6
+Command: add
+	SweatShirt		3		32.02
+	Hat		3		27.35
+	Coffee		3		31.85
+	Jacket		2		90.3
+	SuitCoat		2		8.1
+	Shoes		2		78.39
+	Coffee		2		91.99
+	Sunglasses		1		28.65
+	Confirmation#5205
+	CustID:C2NB
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+#60
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#61
+	DY9U6F8L
+	4032
+	Total Items: 13
+#62
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#63
+	PUBT
+	5818
+	Total Items: 6
+#64
+	ID:
+	5070
+	Total Items: 4
+#65
+	ID:
+	5205
+	Total Items: 8
+#66
+	ID:
+	5232
+	Total Items: 5
+#67
+	ID:
+	4904
+	Total Items: 4
+#68
+	ID:
+	4814
+	Total Items: 11
+#69
+	ID:
+	4032
+	Total Items: 13
+#70
+	ID:
+	5330
+	Total Items: 12
+#71
+	ID:
+	5818
+	Total Items: 6
+#72
+	ID:
+	4557
+	Total Items: 11
+#73
+	ID:
+	4939
+	Total Items: 12
+#74
+	ID:
+	5070
+	Total Items: 4
+#75
+	ID:
+	5205
+	Total Items: 8
+#76
+	ID:
+	5232
+	Total Items: 5
+#77
+	ID:
+	4904
+	Total Items: 4
+#78
+	ID:
+	4814
+	Total Items: 11
+#79
+	ID:
+	4032
+	Total Items: 13
+#80
+	ID:
+	5330
+	Total Items: 12
+#81
+	ID:
+	5818
+	Total Items: 6
+#82
+	ID:
+	4557
+	Total Items: 11
+#83
+	ID:
+	4939
+	Total Items: 12
+#84
+	ID:
+	5070
+	Total Items: 4
+#85
+	ID:
+	5205
+	Total Items: 8
+#86
+	ID:
+	5232
+	Total Items: 5
+#87
+	ID:
+	4904
+	Total Items: 4
+#88
+	ID:
+	4814
+	Total Items: 11
+#89
+	ID:
+	4032
+	Total Items: 13
+#90
+	ID:
+	5330
+	Total Items: 12
+#91
+	ID:
+	5818
+	Total Items: 6
+#92
+	ID:
+	4557
+	Total Items: 11
+#93
+	ID:
+	4939
+	Total Items: 12
+#94
+	JQ6GZ
+	5070
+	Total Items: 4
+#95
+	C2NB
+	5205
+	Total Items: 8
+#96
+	TBNVUCS3
+	5232
+	Total Items: 5
+#97
+	KQCLB5N
+	4904
+	Total Items: 4
+#98
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#99
+	DY9U6F8L
+	4032
+	Total Items: 13
+#100
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#101
+	PUBT
+	5818
+	Total Items: 6
+#102
+	MFX8O5Z
+	4939
+	Total Items: 12
+Command: add
+	Sunglasses		3		90.65
+	Waterbottle		3		18
+	Jacket		3		13.38
+	Pants		2		67.2
+	Socks		3		75.3
+	Confirmation#5232
+	CustID:TBNVUCS3
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+#60
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#61
+	DY9U6F8L
+	4032
+	Total Items: 13
+#62
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#63
+	PUBT
+	5818
+	Total Items: 6
+#64
+	ID:
+	5070
+	Total Items: 4
+#65
+	ID:
+	5205
+	Total Items: 8
+#66
+	ID:
+	5232
+	Total Items: 5
+#67
+	ID:
+	4904
+	Total Items: 4
+#68
+	ID:
+	4814
+	Total Items: 11
+#69
+	ID:
+	4032
+	Total Items: 13
+#70
+	ID:
+	5330
+	Total Items: 12
+#71
+	ID:
+	5818
+	Total Items: 6
+#72
+	ID:
+	4557
+	Total Items: 11
+#73
+	ID:
+	4939
+	Total Items: 12
+#74
+	ID:
+	5070
+	Total Items: 4
+#75
+	ID:
+	5205
+	Total Items: 8
+#76
+	ID:
+	5232
+	Total Items: 5
+#77
+	ID:
+	4904
+	Total Items: 4
+#78
+	ID:
+	4814
+	Total Items: 11
+#79
+	ID:
+	4032
+	Total Items: 13
+#80
+	ID:
+	5330
+	Total Items: 12
+#81
+	ID:
+	5818
+	Total Items: 6
+#82
+	ID:
+	4557
+	Total Items: 11
+#83
+	ID:
+	4939
+	Total Items: 12
+#84
+	ID:
+	5070
+	Total Items: 4
+#85
+	ID:
+	5205
+	Total Items: 8
+#86
+	ID:
+	5232
+	Total Items: 5
+#87
+	ID:
+	4904
+	Total Items: 4
+#88
+	ID:
+	4814
+	Total Items: 11
+#89
+	ID:
+	4032
+	Total Items: 13
+#90
+	ID:
+	5330
+	Total Items: 12
+#91
+	ID:
+	5818
+	Total Items: 6
+#92
+	ID:
+	4557
+	Total Items: 11
+#93
+	ID:
+	4939
+	Total Items: 12
+#94
+	JQ6GZ
+	5070
+	Total Items: 4
+#95
+	C2NB
+	5205
+	Total Items: 8
+#96
+	TBNVUCS3
+	5232
+	Total Items: 5
+#97
+	KQCLB5N
+	4904
+	Total Items: 4
+#98
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#99
+	DY9U6F8L
+	4032
+	Total Items: 13
+#100
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#101
+	PUBT
+	5818
+	Total Items: 6
+#102
+	MFX8O5Z
+	4939
+	Total Items: 12
+#103
+	JQ6GZ
+	5070
+	Total Items: 4
+Command: add
+	SweatShirt		2		17.77
+	VideoGame		1		91.89
+	Shirt		3		68.29
+	Shoes		2		98.38
+	Confirmation#4904
+	CustID:KQCLB5N
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+#60
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#61
+	DY9U6F8L
+	4032
+	Total Items: 13
+#62
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#63
+	PUBT
+	5818
+	Total Items: 6
+#64
+	ID:
+	5070
+	Total Items: 4
+#65
+	ID:
+	5205
+	Total Items: 8
+#66
+	ID:
+	5232
+	Total Items: 5
+#67
+	ID:
+	4904
+	Total Items: 4
+#68
+	ID:
+	4814
+	Total Items: 11
+#69
+	ID:
+	4032
+	Total Items: 13
+#70
+	ID:
+	5330
+	Total Items: 12
+#71
+	ID:
+	5818
+	Total Items: 6
+#72
+	ID:
+	4557
+	Total Items: 11
+#73
+	ID:
+	4939
+	Total Items: 12
+#74
+	ID:
+	5070
+	Total Items: 4
+#75
+	ID:
+	5205
+	Total Items: 8
+#76
+	ID:
+	5232
+	Total Items: 5
+#77
+	ID:
+	4904
+	Total Items: 4
+#78
+	ID:
+	4814
+	Total Items: 11
+#79
+	ID:
+	4032
+	Total Items: 13
+#80
+	ID:
+	5330
+	Total Items: 12
+#81
+	ID:
+	5818
+	Total Items: 6
+#82
+	ID:
+	4557
+	Total Items: 11
+#83
+	ID:
+	4939
+	Total Items: 12
+#84
+	ID:
+	5070
+	Total Items: 4
+#85
+	ID:
+	5205
+	Total Items: 8
+#86
+	ID:
+	5232
+	Total Items: 5
+#87
+	ID:
+	4904
+	Total Items: 4
+#88
+	ID:
+	4814
+	Total Items: 11
+#89
+	ID:
+	4032
+	Total Items: 13
+#90
+	ID:
+	5330
+	Total Items: 12
+#91
+	ID:
+	5818
+	Total Items: 6
+#92
+	ID:
+	4557
+	Total Items: 11
+#93
+	ID:
+	4939
+	Total Items: 12
+#94
+	JQ6GZ
+	5070
+	Total Items: 4
+#95
+	C2NB
+	5205
+	Total Items: 8
+#96
+	TBNVUCS3
+	5232
+	Total Items: 5
+#97
+	KQCLB5N
+	4904
+	Total Items: 4
+#98
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#99
+	DY9U6F8L
+	4032
+	Total Items: 13
+#100
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#101
+	PUBT
+	5818
+	Total Items: 6
+#102
+	MFX8O5Z
+	4939
+	Total Items: 12
+#103
+	JQ6GZ
+	5070
+	Total Items: 4
+#104
+	C2NB
+	5205
+	Total Items: 8
+Command: add
+	Hat		2		8.34
+	Shirt		2		38.92
+	Decorations		3		92.74
+	Backpack		2		10.52
+	Skirt		3		65.93
+	Backpack		2		97.74
+	Hat		2		96.13
+	SweatShirt		1		32.18
+	Hat		3		53.85
+	Coat		3		8.64
+	Jacket		1		21.89
+	Confirmation#4814
+	CustID:XFEGJ3E5
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+#60
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#61
+	DY9U6F8L
+	4032
+	Total Items: 13
+#62
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#63
+	PUBT
+	5818
+	Total Items: 6
+#64
+	ID:
+	5070
+	Total Items: 4
+#65
+	ID:
+	5205
+	Total Items: 8
+#66
+	ID:
+	5232
+	Total Items: 5
+#67
+	ID:
+	4904
+	Total Items: 4
+#68
+	ID:
+	4814
+	Total Items: 11
+#69
+	ID:
+	4032
+	Total Items: 13
+#70
+	ID:
+	5330
+	Total Items: 12
+#71
+	ID:
+	5818
+	Total Items: 6
+#72
+	ID:
+	4557
+	Total Items: 11
+#73
+	ID:
+	4939
+	Total Items: 12
+#74
+	ID:
+	5070
+	Total Items: 4
+#75
+	ID:
+	5205
+	Total Items: 8
+#76
+	ID:
+	5232
+	Total Items: 5
+#77
+	ID:
+	4904
+	Total Items: 4
+#78
+	ID:
+	4814
+	Total Items: 11
+#79
+	ID:
+	4032
+	Total Items: 13
+#80
+	ID:
+	5330
+	Total Items: 12
+#81
+	ID:
+	5818
+	Total Items: 6
+#82
+	ID:
+	4557
+	Total Items: 11
+#83
+	ID:
+	4939
+	Total Items: 12
+#84
+	ID:
+	5070
+	Total Items: 4
+#85
+	ID:
+	5205
+	Total Items: 8
+#86
+	ID:
+	5232
+	Total Items: 5
+#87
+	ID:
+	4904
+	Total Items: 4
+#88
+	ID:
+	4814
+	Total Items: 11
+#89
+	ID:
+	4032
+	Total Items: 13
+#90
+	ID:
+	5330
+	Total Items: 12
+#91
+	ID:
+	5818
+	Total Items: 6
+#92
+	ID:
+	4557
+	Total Items: 11
+#93
+	ID:
+	4939
+	Total Items: 12
+#94
+	JQ6GZ
+	5070
+	Total Items: 4
+#95
+	C2NB
+	5205
+	Total Items: 8
+#96
+	TBNVUCS3
+	5232
+	Total Items: 5
+#97
+	KQCLB5N
+	4904
+	Total Items: 4
+#98
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#99
+	DY9U6F8L
+	4032
+	Total Items: 13
+#100
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#101
+	PUBT
+	5818
+	Total Items: 6
+#102
+	MFX8O5Z
+	4939
+	Total Items: 12
+#103
+	JQ6GZ
+	5070
+	Total Items: 4
+#104
+	C2NB
+	5205
+	Total Items: 8
+#105
+	TBNVUCS3
+	5232
+	Total Items: 5
+Command: add
+	Decorations		2		56.72
+	Book		1		77.32
+	Socks		1		19.57
+	VideoGame		2		66.76
+	Sunglasses		2		66.96
+	Coffee		3		34.06
+	SuitCoat		3		9.5
+	Coffee		1		87.38
+	Coat		2		21.52
+	Skirt		1		29.71
+	SuitCoat		3		40.31
+	Coat		1		75.69
+	T-Shirt		1		43.69
+	Confirmation#4032
+	CustID:DY9U6F8L
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+#60
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#61
+	DY9U6F8L
+	4032
+	Total Items: 13
+#62
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#63
+	PUBT
+	5818
+	Total Items: 6
+#64
+	ID:
+	5070
+	Total Items: 4
+#65
+	ID:
+	5205
+	Total Items: 8
+#66
+	ID:
+	5232
+	Total Items: 5
+#67
+	ID:
+	4904
+	Total Items: 4
+#68
+	ID:
+	4814
+	Total Items: 11
+#69
+	ID:
+	4032
+	Total Items: 13
+#70
+	ID:
+	5330
+	Total Items: 12
+#71
+	ID:
+	5818
+	Total Items: 6
+#72
+	ID:
+	4557
+	Total Items: 11
+#73
+	ID:
+	4939
+	Total Items: 12
+#74
+	ID:
+	5070
+	Total Items: 4
+#75
+	ID:
+	5205
+	Total Items: 8
+#76
+	ID:
+	5232
+	Total Items: 5
+#77
+	ID:
+	4904
+	Total Items: 4
+#78
+	ID:
+	4814
+	Total Items: 11
+#79
+	ID:
+	4032
+	Total Items: 13
+#80
+	ID:
+	5330
+	Total Items: 12
+#81
+	ID:
+	5818
+	Total Items: 6
+#82
+	ID:
+	4557
+	Total Items: 11
+#83
+	ID:
+	4939
+	Total Items: 12
+#84
+	ID:
+	5070
+	Total Items: 4
+#85
+	ID:
+	5205
+	Total Items: 8
+#86
+	ID:
+	5232
+	Total Items: 5
+#87
+	ID:
+	4904
+	Total Items: 4
+#88
+	ID:
+	4814
+	Total Items: 11
+#89
+	ID:
+	4032
+	Total Items: 13
+#90
+	ID:
+	5330
+	Total Items: 12
+#91
+	ID:
+	5818
+	Total Items: 6
+#92
+	ID:
+	4557
+	Total Items: 11
+#93
+	ID:
+	4939
+	Total Items: 12
+#94
+	JQ6GZ
+	5070
+	Total Items: 4
+#95
+	C2NB
+	5205
+	Total Items: 8
+#96
+	TBNVUCS3
+	5232
+	Total Items: 5
+#97
+	KQCLB5N
+	4904
+	Total Items: 4
+#98
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#99
+	DY9U6F8L
+	4032
+	Total Items: 13
+#100
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#101
+	PUBT
+	5818
+	Total Items: 6
+#102
+	MFX8O5Z
+	4939
+	Total Items: 12
+#103
+	JQ6GZ
+	5070
+	Total Items: 4
+#104
+	C2NB
+	5205
+	Total Items: 8
+#105
+	TBNVUCS3
+	5232
+	Total Items: 5
+#106
+	KQCLB5N
+	4904
+	Total Items: 4
+Command: add
+	Hat		3		82.86
+	Shirt		3		97.26
+	T-Shirt		1		75.9
+	Pants		3		71.86
+	T-Shirt		1		24.54
+	Shirt		2		18.06
+	Coat		2		31.15
+	Socks		1		38.05
+	Jacket		1		48.4
+	Belt		1		19.84
+	Shirt		1		37.27
+	Hat		2		69.11
+	Confirmation#5330
+	CustID:JRW2ZIMQ
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+#60
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#61
+	DY9U6F8L
+	4032
+	Total Items: 13
+#62
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#63
+	PUBT
+	5818
+	Total Items: 6
+#64
+	ID:
+	5070
+	Total Items: 4
+#65
+	ID:
+	5205
+	Total Items: 8
+#66
+	ID:
+	5232
+	Total Items: 5
+#67
+	ID:
+	4904
+	Total Items: 4
+#68
+	ID:
+	4814
+	Total Items: 11
+#69
+	ID:
+	4032
+	Total Items: 13
+#70
+	ID:
+	5330
+	Total Items: 12
+#71
+	ID:
+	5818
+	Total Items: 6
+#72
+	ID:
+	4557
+	Total Items: 11
+#73
+	ID:
+	4939
+	Total Items: 12
+#74
+	ID:
+	5070
+	Total Items: 4
+#75
+	ID:
+	5205
+	Total Items: 8
+#76
+	ID:
+	5232
+	Total Items: 5
+#77
+	ID:
+	4904
+	Total Items: 4
+#78
+	ID:
+	4814
+	Total Items: 11
+#79
+	ID:
+	4032
+	Total Items: 13
+#80
+	ID:
+	5330
+	Total Items: 12
+#81
+	ID:
+	5818
+	Total Items: 6
+#82
+	ID:
+	4557
+	Total Items: 11
+#83
+	ID:
+	4939
+	Total Items: 12
+#84
+	ID:
+	5070
+	Total Items: 4
+#85
+	ID:
+	5205
+	Total Items: 8
+#86
+	ID:
+	5232
+	Total Items: 5
+#87
+	ID:
+	4904
+	Total Items: 4
+#88
+	ID:
+	4814
+	Total Items: 11
+#89
+	ID:
+	4032
+	Total Items: 13
+#90
+	ID:
+	5330
+	Total Items: 12
+#91
+	ID:
+	5818
+	Total Items: 6
+#92
+	ID:
+	4557
+	Total Items: 11
+#93
+	ID:
+	4939
+	Total Items: 12
+#94
+	JQ6GZ
+	5070
+	Total Items: 4
+#95
+	C2NB
+	5205
+	Total Items: 8
+#96
+	TBNVUCS3
+	5232
+	Total Items: 5
+#97
+	KQCLB5N
+	4904
+	Total Items: 4
+#98
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#99
+	DY9U6F8L
+	4032
+	Total Items: 13
+#100
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#101
+	PUBT
+	5818
+	Total Items: 6
+#102
+	MFX8O5Z
+	4939
+	Total Items: 12
+#103
+	JQ6GZ
+	5070
+	Total Items: 4
+#104
+	C2NB
+	5205
+	Total Items: 8
+#105
+	TBNVUCS3
+	5232
+	Total Items: 5
+#106
+	KQCLB5N
+	4904
+	Total Items: 4
+#107
+	XFEGJ3E5
+	4814
+	Total Items: 11
+Command: add
+	Decorations		1		68.4
+	SweatShirt		1		17.23
+	Jacket		2		79.4
+	Shoes		3		80.93
+	Hat		2		62.63
+	Waterbottle		1		90.7
+	Confirmation#5818
+	CustID:PUBT
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+#60
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#61
+	DY9U6F8L
+	4032
+	Total Items: 13
+#62
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#63
+	PUBT
+	5818
+	Total Items: 6
+#64
+	ID:
+	5070
+	Total Items: 4
+#65
+	ID:
+	5205
+	Total Items: 8
+#66
+	ID:
+	5232
+	Total Items: 5
+#67
+	ID:
+	4904
+	Total Items: 4
+#68
+	ID:
+	4814
+	Total Items: 11
+#69
+	ID:
+	4032
+	Total Items: 13
+#70
+	ID:
+	5330
+	Total Items: 12
+#71
+	ID:
+	5818
+	Total Items: 6
+#72
+	ID:
+	4557
+	Total Items: 11
+#73
+	ID:
+	4939
+	Total Items: 12
+#74
+	ID:
+	5070
+	Total Items: 4
+#75
+	ID:
+	5205
+	Total Items: 8
+#76
+	ID:
+	5232
+	Total Items: 5
+#77
+	ID:
+	4904
+	Total Items: 4
+#78
+	ID:
+	4814
+	Total Items: 11
+#79
+	ID:
+	4032
+	Total Items: 13
+#80
+	ID:
+	5330
+	Total Items: 12
+#81
+	ID:
+	5818
+	Total Items: 6
+#82
+	ID:
+	4557
+	Total Items: 11
+#83
+	ID:
+	4939
+	Total Items: 12
+#84
+	ID:
+	5070
+	Total Items: 4
+#85
+	ID:
+	5205
+	Total Items: 8
+#86
+	ID:
+	5232
+	Total Items: 5
+#87
+	ID:
+	4904
+	Total Items: 4
+#88
+	ID:
+	4814
+	Total Items: 11
+#89
+	ID:
+	4032
+	Total Items: 13
+#90
+	ID:
+	5330
+	Total Items: 12
+#91
+	ID:
+	5818
+	Total Items: 6
+#92
+	ID:
+	4557
+	Total Items: 11
+#93
+	ID:
+	4939
+	Total Items: 12
+#94
+	JQ6GZ
+	5070
+	Total Items: 4
+#95
+	C2NB
+	5205
+	Total Items: 8
+#96
+	TBNVUCS3
+	5232
+	Total Items: 5
+#97
+	KQCLB5N
+	4904
+	Total Items: 4
+#98
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#99
+	DY9U6F8L
+	4032
+	Total Items: 13
+#100
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#101
+	PUBT
+	5818
+	Total Items: 6
+#102
+	MFX8O5Z
+	4939
+	Total Items: 12
+#103
+	JQ6GZ
+	5070
+	Total Items: 4
+#104
+	C2NB
+	5205
+	Total Items: 8
+#105
+	TBNVUCS3
+	5232
+	Total Items: 5
+#106
+	KQCLB5N
+	4904
+	Total Items: 4
+#107
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#108
+	DY9U6F8L
+	4032
+	Total Items: 13
+Command: add
+	Waterbottle		3		13.4
+	Hat		1		22.93
+	SuitCoat		1		54.85
+	T-Shirt		2		35.6
+	Coffee		2		15
+	Sunglasses		2		59.46
+	Waterbottle		3		22.09
+	Socks		1		76.31
+	Socks		1		55.88
+	Coat		2		0.21
+	Jacket		3		44.68
+	Confirmation#4557
+	CustID:NKZB81YC
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+#60
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#61
+	DY9U6F8L
+	4032
+	Total Items: 13
+#62
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#63
+	PUBT
+	5818
+	Total Items: 6
+#64
+	ID:
+	5070
+	Total Items: 4
+#65
+	ID:
+	5205
+	Total Items: 8
+#66
+	ID:
+	5232
+	Total Items: 5
+#67
+	ID:
+	4904
+	Total Items: 4
+#68
+	ID:
+	4814
+	Total Items: 11
+#69
+	ID:
+	4032
+	Total Items: 13
+#70
+	ID:
+	5330
+	Total Items: 12
+#71
+	ID:
+	5818
+	Total Items: 6
+#72
+	ID:
+	4557
+	Total Items: 11
+#73
+	ID:
+	4939
+	Total Items: 12
+#74
+	ID:
+	5070
+	Total Items: 4
+#75
+	ID:
+	5205
+	Total Items: 8
+#76
+	ID:
+	5232
+	Total Items: 5
+#77
+	ID:
+	4904
+	Total Items: 4
+#78
+	ID:
+	4814
+	Total Items: 11
+#79
+	ID:
+	4032
+	Total Items: 13
+#80
+	ID:
+	5330
+	Total Items: 12
+#81
+	ID:
+	5818
+	Total Items: 6
+#82
+	ID:
+	4557
+	Total Items: 11
+#83
+	ID:
+	4939
+	Total Items: 12
+#84
+	ID:
+	5070
+	Total Items: 4
+#85
+	ID:
+	5205
+	Total Items: 8
+#86
+	ID:
+	5232
+	Total Items: 5
+#87
+	ID:
+	4904
+	Total Items: 4
+#88
+	ID:
+	4814
+	Total Items: 11
+#89
+	ID:
+	4032
+	Total Items: 13
+#90
+	ID:
+	5330
+	Total Items: 12
+#91
+	ID:
+	5818
+	Total Items: 6
+#92
+	ID:
+	4557
+	Total Items: 11
+#93
+	ID:
+	4939
+	Total Items: 12
+#94
+	JQ6GZ
+	5070
+	Total Items: 4
+#95
+	C2NB
+	5205
+	Total Items: 8
+#96
+	TBNVUCS3
+	5232
+	Total Items: 5
+#97
+	KQCLB5N
+	4904
+	Total Items: 4
+#98
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#99
+	DY9U6F8L
+	4032
+	Total Items: 13
+#100
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#101
+	PUBT
+	5818
+	Total Items: 6
+#102
+	MFX8O5Z
+	4939
+	Total Items: 12
+#103
+	JQ6GZ
+	5070
+	Total Items: 4
+#104
+	C2NB
+	5205
+	Total Items: 8
+#105
+	TBNVUCS3
+	5232
+	Total Items: 5
+#106
+	KQCLB5N
+	4904
+	Total Items: 4
+#107
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#108
+	DY9U6F8L
+	4032
+	Total Items: 13
+#109
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+Command: add
+	Hat		2		64.72
+	SuitCoat		3		96.72
+	Headphones		1		91.42
+	Shirt		1		97.25
+	Socks		1		95.85
+	Pants		3		45.22
+	Belt		2		71.51
+	Decorations		3		84.26
+	Backpack		3		15.38
+	VideoGame		3		82.1
+	VideoGame		3		63.83
+	Skirt		2		68.54
+	Confirmation#4939
+	CustID:MFX8O5Z
+Command: show good
+Command: show bad
+#1
+	JQ6GZ
+	5070
+	Total Items: 4
+#2
+	C2NB
+	5205
+	Total Items: 8
+#3
+	TBNVUCS3
+	5232
+	Total Items: 5
+#4
+	KQCLB5N
+	4904
+	Total Items: 4
+#5
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#6
+	DY9U6F8L
+	4032
+	Total Items: 13
+#7
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#8
+	PUBT
+	5818
+	Total Items: 6
+#9
+	ID:
+	5070
+	Total Items: 4
+#10
+	ID:
+	5205
+	Total Items: 8
+#11
+	ID:
+	5232
+	Total Items: 5
+#12
+	ID:
+	4904
+	Total Items: 4
+#13
+	ID:
+	4814
+	Total Items: 11
+#14
+	ID:
+	4032
+	Total Items: 13
+#15
+	ID:
+	5330
+	Total Items: 12
+#16
+	ID:
+	5818
+	Total Items: 6
+#17
+	ID:
+	4557
+	Total Items: 11
+#18
+	ID:
+	4939
+	Total Items: 12
+#19
+	JQ6GZ
+	5070
+	Total Items: 4
+#20
+	C2NB
+	5205
+	Total Items: 8
+#21
+	TBNVUCS3
+	5232
+	Total Items: 5
+#22
+	KQCLB5N
+	4904
+	Total Items: 4
+#23
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#24
+	DY9U6F8L
+	4032
+	Total Items: 13
+#25
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#26
+	PUBT
+	5818
+	Total Items: 6
+#27
+	ID:
+	5070
+	Total Items: 4
+#28
+	ID:
+	5205
+	Total Items: 8
+#29
+	ID:
+	5232
+	Total Items: 5
+#30
+	ID:
+	4904
+	Total Items: 4
+#31
+	ID:
+	4814
+	Total Items: 11
+#32
+	ID:
+	4032
+	Total Items: 13
+#33
+	ID:
+	5330
+	Total Items: 12
+#34
+	ID:
+	5818
+	Total Items: 6
+#35
+	ID:
+	4557
+	Total Items: 11
+#36
+	ID:
+	4939
+	Total Items: 12
+#37
+	ID:
+	5070
+	Total Items: 4
+#38
+	ID:
+	5205
+	Total Items: 8
+#39
+	ID:
+	5232
+	Total Items: 5
+#40
+	ID:
+	4904
+	Total Items: 4
+#41
+	ID:
+	4814
+	Total Items: 11
+#42
+	ID:
+	4032
+	Total Items: 13
+#43
+	ID:
+	5330
+	Total Items: 12
+#44
+	ID:
+	5818
+	Total Items: 6
+#45
+	ID:
+	4557
+	Total Items: 11
+#46
+	ID:
+	4939
+	Total Items: 12
+#47
+	JQ6GZ
+	5070
+	Total Items: 4
+#48
+	C2NB
+	5205
+	Total Items: 8
+#49
+	TBNVUCS3
+	5232
+	Total Items: 5
+#50
+	KQCLB5N
+	4904
+	Total Items: 4
+#51
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#52
+	DY9U6F8L
+	4032
+	Total Items: 13
+#53
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#54
+	PUBT
+	5818
+	Total Items: 6
+#55
+	MFX8O5Z
+	4939
+	Total Items: 12
+#56
+	JQ6GZ
+	5070
+	Total Items: 4
+#57
+	C2NB
+	5205
+	Total Items: 8
+#58
+	TBNVUCS3
+	5232
+	Total Items: 5
+#59
+	KQCLB5N
+	4904
+	Total Items: 4
+#60
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#61
+	DY9U6F8L
+	4032
+	Total Items: 13
+#62
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#63
+	PUBT
+	5818
+	Total Items: 6
+#64
+	ID:
+	5070
+	Total Items: 4
+#65
+	ID:
+	5205
+	Total Items: 8
+#66
+	ID:
+	5232
+	Total Items: 5
+#67
+	ID:
+	4904
+	Total Items: 4
+#68
+	ID:
+	4814
+	Total Items: 11
+#69
+	ID:
+	4032
+	Total Items: 13
+#70
+	ID:
+	5330
+	Total Items: 12
+#71
+	ID:
+	5818
+	Total Items: 6
+#72
+	ID:
+	4557
+	Total Items: 11
+#73
+	ID:
+	4939
+	Total Items: 12
+#74
+	ID:
+	5070
+	Total Items: 4
+#75
+	ID:
+	5205
+	Total Items: 8
+#76
+	ID:
+	5232
+	Total Items: 5
+#77
+	ID:
+	4904
+	Total Items: 4
+#78
+	ID:
+	4814
+	Total Items: 11
+#79
+	ID:
+	4032
+	Total Items: 13
+#80
+	ID:
+	5330
+	Total Items: 12
+#81
+	ID:
+	5818
+	Total Items: 6
+#82
+	ID:
+	4557
+	Total Items: 11
+#83
+	ID:
+	4939
+	Total Items: 12
+#84
+	ID:
+	5070
+	Total Items: 4
+#85
+	ID:
+	5205
+	Total Items: 8
+#86
+	ID:
+	5232
+	Total Items: 5
+#87
+	ID:
+	4904
+	Total Items: 4
+#88
+	ID:
+	4814
+	Total Items: 11
+#89
+	ID:
+	4032
+	Total Items: 13
+#90
+	ID:
+	5330
+	Total Items: 12
+#91
+	ID:
+	5818
+	Total Items: 6
+#92
+	ID:
+	4557
+	Total Items: 11
+#93
+	ID:
+	4939
+	Total Items: 12
+#94
+	JQ6GZ
+	5070
+	Total Items: 4
+#95
+	C2NB
+	5205
+	Total Items: 8
+#96
+	TBNVUCS3
+	5232
+	Total Items: 5
+#97
+	KQCLB5N
+	4904
+	Total Items: 4
+#98
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#99
+	DY9U6F8L
+	4032
+	Total Items: 13
+#100
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#101
+	PUBT
+	5818
+	Total Items: 6
+#102
+	MFX8O5Z
+	4939
+	Total Items: 12
+#103
+	JQ6GZ
+	5070
+	Total Items: 4
+#104
+	C2NB
+	5205
+	Total Items: 8
+#105
+	TBNVUCS3
+	5232
+	Total Items: 5
+#106
+	KQCLB5N
+	4904
+	Total Items: 4
+#107
+	XFEGJ3E5
+	4814
+	Total Items: 11
+#108
+	DY9U6F8L
+	4032
+	Total Items: 13
+#109
+	JRW2ZIMQ
+	5330
+	Total Items: 12
+#110
+	PUBT
+	5818
+	Total Items: 6
